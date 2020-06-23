@@ -3,8 +3,8 @@
 If a reply is ignored, delete.
 Run daily with AWS Lambda.
 
-- reply to be deleted
-  - No Favorite/RT replys
+- deletes replies
+  - No Favorite/RT replies
   - No Reply Tweets
 
 ## How to deploy
